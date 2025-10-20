@@ -193,6 +193,6 @@ Handlers:
 
 ## 🧑‍💻 Author
 
-**Pixelz Engineering Team**  
+**ToaiHoang**  
 Clean Architecture + DDD + CQRS demo for .NET 9  
-© 2025 Pixelz SA. All rights reserved.
+© 2025 ToaiHoang. All rights reserved.
